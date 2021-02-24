@@ -1,6 +1,4 @@
 """
-Following along in ch3 trying to figure out the guess.py solution
-
 The objective is to randomly generate 5 lottery numbers that range from 1 - 99
 We want to receive the users input as a guess and will give them 10 tries for each randomly generated number
 """
