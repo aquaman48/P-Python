@@ -1,5 +1,3 @@
-#Week 1 Question 4 pg. 62
-
 import math
 #Here will ask user to input a radius and store it as a float. 
 r = float(input("Enter a radius: "))
