@@ -56,3 +56,19 @@ the_alien['speed'] = 'slow'
 
 #lets show the original x coordinate
 print(f"\nThe original x location of the {color} alien is {the_alien['x_val']}")
+
+#say we want to move alien to the right we can do that based on the speed
+if the_alien['speed'] == 'slow':
+	x_increase = 1
+
+elif the_alien['speed'] == 'medium':
+	x_increase = 2
+else:
+	x_increase = 4
+
+#now lets find the new position
+the_alien['x_val'] = the_alien['x_val'] + x_increase
+
+print(f"\nThe new x coordinate of the {color} alien is {the_alien['x_val']}")
+
+
