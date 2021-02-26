@@ -14,3 +14,13 @@ print("The surface area is ", surfaceArea)
 print("The volume is ", volume)
 print("The circumference is ", circumference)
 print("The diameter is ", diameter)
+
+
+#taking user input
+
+#1. Ask user to input "radius" of a circle
+radius = float(input("Enter Radius: "))
+#2. Once input has been received the users input will be put in the formula
+area = radius ** 2 * 3.14
+#3. After a quick calculation we will then have the area of the circle given the radius we were given by user. 
+print("The circle has an area of ", area, "square units!")
