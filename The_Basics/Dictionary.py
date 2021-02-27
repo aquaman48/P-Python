@@ -49,7 +49,7 @@ print(f"\nThe new alien we just created is a {color} alien and is worth {score} 
 
 the_alien['x_val'] = 0
 the_alien['y_val'] = 25
-the_alien['speed'] = 'slow'
+the_alien['speed'] = 'medium'
 
 
 # print(the_alien) <- this was used to check that the new values were added to the the_alien dictionary
