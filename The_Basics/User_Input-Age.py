@@ -8,14 +8,17 @@ age = int(input("Enter your age: "))
 print("\nHello,",name,". \nToday you told me you are ", age,"years old")
 
 
+
 #more fun with user input
 
-first = int(input("Please enter the smaller integer: "))
-second = int(input("Please enter the larger integer: "))
+print("\n\n\n\nFinding the Greatest Common Divisor between two numbers. Get 2 numbers in your mind and prepare them!")
+first = int(input("\nPlease enter the smaller integer: "))
+second = int(input("\nPlease enter the larger integer: "))
 
 while first > 0:
 	remainder = second % first
 	second = first
 	first = remainder
 
-print("The greatest common divisor is", second)
+print("\nThe greatest common divisor is", second)
+
