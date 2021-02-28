@@ -37,3 +37,12 @@ print("The sum is", theSum)
 if count > 0:
 	print("The average is", theSum / count)
 
+
+#Using a loop for a 'countdown'
+
+countdown = 5
+while countdown > 0:
+	print(countdown)
+	countdown = countdown - 1
+print("Blast off!!!!")
+
