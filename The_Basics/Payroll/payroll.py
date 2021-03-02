@@ -30,4 +30,8 @@ for line in inputFile:
     address = dataList[4]
     totalPay = hours * payRate
     print("%-15s%10d%15.2f%15s%20s" %(name, hours, totalPay, dataList[0], dataList[4]))
+
+
+print("Thank you for checking out a simple payroll!")
+
     
