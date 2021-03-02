@@ -1,0 +1,3 @@
+101,Lambert, 34, 10.50, 123 Cherry ln. San Diego, CA.
+102,Osborne, 22, 6.25, 124 Pine Ave. San Diego, CA.
+103,Giacometti, 5, 100.70, 878 Acorn Rd. San Diego, CA. 
