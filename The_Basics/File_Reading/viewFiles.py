@@ -1,6 +1,4 @@
 """
-File: viewfiles.py
-Project 6.7
 
 Allows the user to visit all of the files in the current path and view them.
 
