@@ -19,7 +19,7 @@ class ButtonDemo(EasyFrame):
 		self.clearBtn = self.addButton(text = "Erase Greeting",
 									   row = 1, column = 0,
 									   command = self.clear)
-		self.restoreBtn = self.addButton(text = "Restore MFR", 
+		self.restoreBtn = self.addButton(text = "Restore Greeting", 
 										 row = 1, column = 1,
 										 state = "disabled", 
 										 command = self.restore)
@@ -32,7 +32,7 @@ class ButtonDemo(EasyFrame):
 
 	def restore(self):
 		"""Resets label to original text and updates button"""
-		self.label["text"] = "Magic MUTHA FUCKAHHHH!!"
+		self.label["text"] = "ABRA CADABRA, Hello there!!!!!"
 		self.clearBtn["state"] = "normal"
 		self.restoreBtn["state"] = "disabled"
 
