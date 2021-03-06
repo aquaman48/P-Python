@@ -1,5 +1,5 @@
 """
-Week 3 Chapter 6 Project 2 
+
 Nicholas Waterman
 
 """
