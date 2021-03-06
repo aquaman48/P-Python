@@ -1,6 +1,6 @@
 """
-File: blackjack.py
 This module defines the Blackjack, Player, and Dealer classes.
+
 """
 from cards import Deck, Card
 
