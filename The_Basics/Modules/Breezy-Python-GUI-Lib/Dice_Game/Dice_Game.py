@@ -1,6 +1,5 @@
 """
 Nicholas Waterman
-Week 4 Chapter 9 Project 6 
 
 """
 
