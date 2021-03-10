@@ -1,7 +1,6 @@
 """
 File: craps.py
 Nicholas Waterman
-Week 4 Chapter 9 Project 6 
 
 This module studies and plays the game of craps.
 """
