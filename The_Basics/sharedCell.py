@@ -1,7 +1,7 @@
 """
 Nicholas Waterman
 
-File: sharedcell.py
+
 Resource for shared data synchonization for the readers and writers
 problem. Guarantees that a writer finishes writing before readers can
 read and other writers can write. Also supports concurrent reading.
