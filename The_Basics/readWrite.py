@@ -1,7 +1,6 @@
 """
 Nicholas Waterman
 
-
 """
 
 import time, random
