@@ -1,10 +1,6 @@
 """
 Nicholas Waterman
 
-File: readersandwriters.py
-Demonstrates shared data synchonization for the readers and writers
-problem.
-To be completed in the programing projects.
 """
 
 import time, random
