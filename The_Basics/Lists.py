@@ -1,4 +1,4 @@
-#Working on Chapter 3 Crash Course Python Book
+
 
 #Creating lists are done like this. listName = ['listItem0','ListItem1',...'etc']
 pokemon = ['charizard', 'pikachu', 'arcanine', 'amoongus']
