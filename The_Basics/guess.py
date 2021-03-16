@@ -30,6 +30,7 @@ for number in lottery:
 
 
 """
+adding text from linux
 while count < 5:
     userNumber = int(input("Enter your guess: "))
     count += 1 
