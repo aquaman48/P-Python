@@ -23,11 +23,18 @@ I like the versatility that the Python language comes with. There are a lot of i
 In [this](https://github.com/aquaman48/Python/tree/main/The_Basics) directory I have most of the basics of Python here. Varying in with working with list, dictionaries, etc... For the most part I have a good variety of files to be checked out here. 
 
 <br />
+
 ### Rain:
 
 <br />
+This was a challenge that I took on from 
 
+[Python Crash Course, 2nd Edition](https://www.amazon.com/PythonCrashCourse2ndEdition/dp/1593279280/ref=sr_1_1dchild=1&keywords=9781593279295&linkCode=qs&qid=1618626455&s=books&sr=1-1). <br />
+The gist of this is to make it look like the <br />
+"raindrops" are falling vertically on users screen. Some really neat stuff. 
 
 <br />
 
 ### Side_Game/Space_Shooter:
+
+
