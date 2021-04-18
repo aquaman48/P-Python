@@ -37,4 +37,7 @@ The gist of this is to make it look like the <br />
 
 ### Side_Game/Space_Shooter:
 
+<br />
+
+These directories are very similiar. The differences are that in Space_Shooter it has a vertical layout whereas Side_Game is horizontal. Space_Shooter is one of my first projects that I actually started on. 
 
